@@ -19,7 +19,7 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 - 📝 Documenting my learning journey through articles and project write-ups
 - 🤝 Open to **collaborating on open source ML/data science projects**
 - 💼 Actively **looking for opportunities** in Data Science / AI roles
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/obaidullah2020ml/)** *(replace `#` with your LinkedIn URL)*
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/obaidullah2020ml/)**
 
 ---
 
