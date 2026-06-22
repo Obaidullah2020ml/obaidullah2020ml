@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header banner with animated gradient feel using SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mohammad%20Obaidullah&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Python%20Enthusiast%20%7C%20Exploring%20Data%20Science&descAlignY=60&descSize=16&descColor=a8b2d8" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mohammad%20Obaidullah&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Python%20Enthusiast%20%7C%20Exploring%20Data%20Science&descAlignY=60&descSize=16&descColor=a8b2d8" alt="header" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9B%A0%EF%B8%8F;Research+%26+Writing+Enthusiast+%F0%9F%93%9D;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9B%A0%EF%B8%8F;Research+%26+Writing+Enthusiast+%F0%9F%93%9D;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,6 +20,7 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 - 🤝 Open to **collaborating on open source ML/data science projects**
 - 💼 Actively **looking for opportunities** in Data Science / AI roles
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/obaidullah2020ml/)**
+- 📧 Email me **[here](mailto:obaidullah2020ml@gmail.com)**
 
 ---
 
@@ -28,10 +29,10 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<!-- [Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)-->!
+<!--[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)-->!
+<!-- [scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)-->!
+<!-- [Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)-->!
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,8 +49,8 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔗 [**Project Name**](#) | Brief one-line description of what it does and why it matters | `Python` `pandas` |
-| 🔗 [**Project Name**](#) | Brief one-line description of what it does and why it matters | `scikit-learn` `Jupyter` |
-| 🔗 [**Project Name**](#) | Brief one-line description of what it does and why it matters | `Python` `matplotlib` |
+<!--| 🔗 [**Project Name**](#) | Brief one-line description of what it does and why it matters | `scikit-learn` `Jupyter` |-->!
+<!--| 🔗 [**Project Name**](#) | Brief one-line description of what it does and why it matters | `Python` `matplotlib` |-->!
 
 *Replace the rows above with your real projects and links.*
 
@@ -77,8 +78,8 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 > I write about what I'm learning — from ML concepts to project breakdowns.
 
 - 📄 *[Article title — brief description](#)* — *Platform / Date*
-- 📄 *[Article title — brief description](#)* — *Platform / Date*
-- 📄 *[Article title — brief description](#)* — *Platform / Date*
+<!--- 📄 *[Article title — brief description](#)* — *Platform / Date* |-->!
+<!--- 📄 *[Article title — brief description](#)* — *Platform / Date* |-->!
 
 *Add your real articles or blog posts here. Great platforms for beginners: [Dev.to](https://dev.to), [Hashnode](https://hashnode.com), [Medium](https://medium.com).*
 
