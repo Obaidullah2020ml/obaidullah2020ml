@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header banner with animated gradient feel using SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mohammad%20Obaidullah&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Python%20Enthusiast%20%7C%20Exploring%20Data%20Science&descAlignY=60&descSize=16&descColor=a8b2d8" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mohammad%20Obaidullah&fontSize=40&fontColor=00FF00&animation=fadeIn&fo[...]
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9B%A0%EF%B8%8F;Research+%26+Writing+Enthusiast+%F0%9F%93%9D;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Open+Source+Contrib[...]
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growing passion for **Data Science**, **Machine Learning**, and **AI research**. I believe in learning by building, and I enjoy sharing what I discover through open source projects and written work.
+Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growing passion for **Data Science**, **Machine Learning**, and **AI research**. I believe in learning by building, and I [...]
 
 - 🎓 Currently studying **Software Engineering**
 - 🔭 Exploring **machine learning fundamentals** and real-world data problems
@@ -91,6 +91,7 @@ Hi, I'm **Mohammad Obaidullah** — a Software Engineering student with a growin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah2020ml/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Obaidullah2020ml)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
 
 </div>
 
